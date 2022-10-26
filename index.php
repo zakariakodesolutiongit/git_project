@@ -8,3 +8,7 @@ $data = array(
     "key4" => "value4",
     "key4" => "value4",
 );
+
+function say( $asdf ) {
+    echo "asdfa";
+}
