@@ -1,3 +1,2 @@
 <?php
-
-<h2>This is php file</h2>
+attachment_id3_data_meta_box( $post:WP_Post );
