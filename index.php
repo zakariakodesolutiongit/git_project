@@ -8,5 +8,6 @@
 </head>
 <body>
   <h2>This is git test</h2>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis natus maiores sunt iure quis excepturi dolorum cum laudantium nam magnam quae dolore vitae, accusamus obcaecati modi. Reprehenderit tempora mollitia vel?</p>
 </body>
 </html>
